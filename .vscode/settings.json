@@ -6,4 +6,6 @@
         "titleBar.activeBackground": "#123877",
         "titleBar.activeForeground": "#fff"
     },
+    "git.enableSmartCommit": true,
+    "git.postCommitCommand": "sync",
 }
